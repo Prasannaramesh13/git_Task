@@ -1,1 +1,1 @@
-echo "stash example!"
+echo "stash executed!"
